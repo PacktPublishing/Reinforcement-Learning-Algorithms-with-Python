@@ -4,7 +4,7 @@
 
 This is the code repository for [Reinforcement Learning Algorithms with Python](https://www.packtpub.com/data/hands-on-reinforcement-learning-algorithms-with-python), published by Packt.
 
-**Learn, understand, and develop smart algorithms for addressing AI challenges	**
+**Learn, understand, and develop smart algorithms for addressing AI challenges**
 
 ## What is this book about?
 Reinforcement Learning (RL) is a popular and promising branch of AI that involves making smarter models and agents that can automatically determine ideal behavior based on changing requirements. This book will help you master RL algorithms and understand their implementation as you build self-learning agents.

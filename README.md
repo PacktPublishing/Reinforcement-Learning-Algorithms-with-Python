@@ -13,14 +13,14 @@ By the end of the book, you'll have worked with key RL algorithms to overcome ch
 
 
 This book covers the following exciting features:
-Develop an agent to play CartPole using the OpenAI Gym interface
-Discover the model-based reinforcement learning paradigm
-Solve the Frozen Lake problem with dynamic programming
-Explore Q-learning and SARSA with a view to playing a taxi game
-Apply Deep Q-Networks (DQNs) to Atari games using Gym
-Study policy gradient algorithms, including Actor-Critic and REINFORCE
-Understand and apply PPO and TRPO in continuous locomotion environments
-Get to grips with evolution strategies for solving the lunar lander problem
+*Develop an agent to play CartPole using the OpenAI Gym interface
+*Discover the model-based reinforcement learning paradigm
+*Solve the Frozen Lake problem with dynamic programming
+*Explore Q-learning and SARSA with a view to playing a taxi game
+*Apply Deep Q-Networks (DQNs) to Atari games using Gym
+*Study policy gradient algorithms, including Actor-Critic and REINFORCE
+*Understand and apply PPO and TRPO in continuous locomotion environments
+*Get to grips with evolution strategies for solving the lunar lander problem
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/Reinforcement-Learning-Algorithms-Python-understand/dp/1789131111/) today!
 

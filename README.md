@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/reinforcement-learning-algorithms-with-python/9781789131116)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789131111).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Reinforcement Learning Algorithms with Python
 
 <a href="https://www.packtpub.com/data/hands-on-reinforcement-learning-algorithms-with-python"><img src="https://www.packtpub.com/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/9/7/9781789131116-original.jpeg" alt="Reinforcement Learning Algorithms with Python" height="256px" align="right"></a>

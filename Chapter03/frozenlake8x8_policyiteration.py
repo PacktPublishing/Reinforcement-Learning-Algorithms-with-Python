@@ -46,7 +46,9 @@ def run_episodes(env, policy, num_games=100):
         done = False
         while not done:
             # select the action accordingly to the policy
-            next_state, reward, done, _ = env.step(policy[state])
+#             print(env.step(policy[state]))
+#             break
+            next_state, reward, done, _, _ = env.step(policy[state])
                 
             state = next_state
             tot_rew += reward 
@@ -54,11 +56,10 @@ def run_episodes(env, policy, num_games=100):
                 state = env.reset()
 
     print('Won %i of %i games!'%(tot_rew, num_games))
-
             
 if __name__ == '__main__':
     # create the environment
-    env = gym.make('FrozenLake-v0')
+    env = gym.make('FrozenLake-v1')
     # enwrap it to have additional information from it
     env = env.unwrapped
 
